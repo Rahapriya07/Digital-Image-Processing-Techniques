@@ -1,4 +1,4 @@
-# Image Handling and Pixel Transformations Using OpenCV
+# EXP. NO.1-Image Handling and Pixel Transformations Using OpenCV
 ## Name:Raha Priya Dharshini M
 ## Reg. no.:212224240124
 
